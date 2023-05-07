@@ -1,0 +1,9 @@
+1. I used vectorized version of backpropagation.
+
+2. Stopping criteria: stop after 1000 iterations.
+
+3. I used "Batch Gradient Descent", which is equivalent to mini-batch with K=n. 
+
+4. For the correctness veritification, you can use "python3 ex1.py", "python3 ex2.py".
+
+5. To run my codes, please run  "python3 run_wine.py", "python3 run_cancer.py" and "python3 run_voting.py" in terminal.
